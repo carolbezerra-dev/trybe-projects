@@ -13,7 +13,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Bloco 4: Introdução - JavaScript
 
-- [ ] 4-5: _[Projeto - Playground Functions]()_
+- [x] 4-5: _[Projeto - Playground Functions](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/4.JavaScript)_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
