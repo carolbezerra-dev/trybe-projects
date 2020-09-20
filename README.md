@@ -9,7 +9,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Bloco 3: Introdução - HTML & CSS
 
-- [x] 3-5: _[Projeto - HTML & CSS - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/3.HTML-CSS)_ and  _[Projeto - HTML & CSS - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/3.HTML-CSS/)_
+- [x] 3-5: _[Projeto - HTML & CSS - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/3.HTML-CSS)_ and _[Projeto - HTML & CSS - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/3.HTML-CSS/)_
 
 ##### Bloco 4: Introdução - JavaScript
 
@@ -17,7 +17,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
-- [ ] 5-5: _[Projeto - Meme Generator]()_
+- [x] 5-5: _[Projeto - Meme Generator - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Meme-Generator)_ and _[Projeto - Meme Generator - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Meme-Generator/)_
 - [ ] 5-6: _[Projeto - Arte com Pixels]()_
 - [ ] 5-7: _[Projeto - Lista de tarefas]()_
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
