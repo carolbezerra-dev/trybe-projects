@@ -18,7 +18,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
 - [x] 5-5: _[Projeto - Meme Generator - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Meme-Generator)_ and _[Projeto - Meme Generator - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Meme-Generator/)_
-- [ ] 5-6: _[Projeto - Arte com Pixels]()_
+- [x] 5-6: _[Projeto - Pixel Art - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Pixels-Art)_ and _[Projeto - Pixel Art - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Pixels-Art/)_
 - [ ] 5-7: _[Projeto - Lista de tarefas]()_
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
