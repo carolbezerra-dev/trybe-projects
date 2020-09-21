@@ -38,9 +38,8 @@ for (let i = 0; i < 4; i += 1) {
 function deleteAll() {
 	// apagar tudo para fazer conforme o usuário desejar
 	while (document.querySelector('.pixel-board').firstChild) {
-		document
-			.querySelector('.pixel-board')
-			.removeChild(document.querySelector('.pixel-board').firstChild);
+		document.querySelector('.pixel-board')
+		document.removeChild(document.querySelector('.pixel-board').firstChild);
 	}
 }
 
