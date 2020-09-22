@@ -1,18 +1,17 @@
 document.querySelector('#criar-tarefa').addEventListener('click', function () {
+	const newTask = document.createElement('li'); // criando li
 	if (document.querySelector('input').value === '') {
 		alert('Please, write your task');
 	} else {
-		const newTask = document.createElement('li'); // criando li
 		document.querySelector('ol').appendChild(newTask); // linkando o li ao ol
 		newTask.innerText = document.querySelector('input').value; // escrevendo no li
 		document.querySelector('input').value = ''; // limpando o input
 	}
 	// para pintar de cinza o selecionado
 	newTask.addEventListener('click', function () {
-		const isGray = document.querySelector('.selected'); // pega o que tiver com o gray
-		if (isGray) {
-			// saber se existe alguma li com o gray
-			isGray.classList.remove('selected'); // remove se tiver
+		const isSelected = document.querySelector('.selected'); // pega o que tiver com o selected
+		if (isSelected) { // saber se existe alguma li com o selected
+			isSelected.classList.remove('selected'); // remove se tiver
 		}
 		newTask.classList.add('selected'); // se não, adiciona
 	});
