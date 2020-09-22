@@ -1,8 +1,8 @@
 document.querySelector('#criar-tarefa').addEventListener('click', function () {
+	const newTask = document.createElement('li'); // criando li
 	if (document.querySelector('input').value === '') {
 		alert('Please, write your task');
 	} else {
-		const newTask = document.createElement('li'); // criando li
 		document.querySelector('ol').appendChild(newTask); // linkando o li ao ol
 		newTask.innerText = document.querySelector('input').value; // escrevendo no li
 		document.querySelector('input').value = ''; // limpando o input
