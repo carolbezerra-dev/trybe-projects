@@ -9,10 +9,10 @@ document.querySelector('#criar-tarefa').addEventListener('click', function () {
 	}
 	// para pintar de cinza o selecionado
 	newTask.addEventListener('click', function () {
-		const isGray = document.querySelector('.selected'); // pega o que tiver com o gray
-		if (isGray) {
-			// saber se existe alguma li com o gray
-			isGray.classList.remove('selected'); // remove se tiver
+		const isSelected = document.querySelector('.selected'); // pega o que tiver com o selected
+		if (isSelected) {
+			// saber se existe alguma li com o selected
+			isSelected.classList.remove('selected'); // remove se tiver
 		}
 		newTask.classList.add('selected'); // se não, adiciona
 	});
