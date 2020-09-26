@@ -22,11 +22,11 @@ let points = 0;
 function game(event) { // event pega o evento que está acontecendo onde a função foi chamada
   if (event.target.style.backgroundColor === `rgb${rgbStringOff}`) {
 // event.target está buscando exatamente o allBalls[i] clicado como referência
-    document.querySelector('#answer').innerText = 'Acertou!';
+    document.querySelector('#answer').innerText = 'YEEEEES! Good try!!';
     points += 3;
     document.querySelector('#score').innerHTML = `Score Point: ${points}`;
   } else {
-    document.querySelector('#answer').innerText = 'Errou! Tente novamente!';
+    document.querySelector('#answer').innerText = 'Not this time. Try again!';
   }
 }
 
