@@ -27,6 +27,7 @@ body {
 
 h1 {
   align-self: center;
+  font-size: 28pt;
   text-decoration: underline;
   text-decoration-style: wavy;
 }
@@ -34,11 +35,13 @@ h1 {
 .rgb-color {
   align-self: center;
   border: 2px solid #8e44ad;
+  font-size: 15pt;
   padding: 5%;
 }
 
 .score {
   align-self: center;
+  font-size: 15pt;
 }
 
 .ball-container {
@@ -56,6 +59,7 @@ h1 {
 
 .answer {
   align-self: center;
+  font-size: 15pt;
 }
 
 button {
