@@ -1,0 +1,70 @@
+body {
+  background-image: url(pexels-steve-johnson-1902415.jpg);
+}
+
+.everything {
+  display: flex;
+}
+
+.invite {
+  display: flex;
+  font-family: 'Dancing Script', cursive;
+  font-size: 80pt;
+  justify-content: flex-start;
+  margin: 5% 15% 0 5%;
+  max-width: 15%;
+}
+
+.invite:hover {
+  color: #8e44ad;
+}
+
+.game-space {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+h1 {
+  align-self: center;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
+
+.rgb-color {
+  align-self: center;
+  border: 2px solid #8e44ad;
+  padding: 5%;
+}
+
+.score {
+  align-self: center;
+}
+
+.ball-container {
+  align-self: center;
+}
+
+.ball {
+  background-color: honeydew;
+  border: 1px solid black;
+  border-radius: 100%;
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+}
+
+.answer {
+  align-self: center;
+}
+
+button {
+  font-size: medium;
+  margin: 5%;
+}
+
+button:hover {
+  background-color: slategray;
+  color: beige;
+  outline: none;
+}
