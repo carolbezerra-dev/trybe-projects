@@ -5,7 +5,9 @@ Trybe is a school for people who want to build a successful career in technology
 # Trybe
 This repository contains all the learning projects developed by Carol Bezerra (https://github.com/carolbezerra-dev) while studying at [Trybe] (https://www.betrybe.com/): rocket:
 
-The program has more than 1,500 hours of classroom and online classes, covers Introduction to software development, Front-end, Back-end, Computer science, Software engineering, Agile methodologies and Soft skills.
+The program has more than 1,500 hours of classroom and online classes, covers Introduction to software development, Front-end, Back-end, Computer science, Software engineering, Agile methodologies and Soft skills.  
+  
+## Fundamentals - Web Development :white_check_mark:  
 
 ##### Block 3: Introduction - HTML & CSS
 
