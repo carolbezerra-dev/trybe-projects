@@ -141,8 +141,6 @@ A triangle consists of three lines: `lineA`,` lineB` and `lineC`. Create a funct
 
 To do so, keep in mind a few considerations:
 
-- For it to be possible to form a triangle, it is necessary that the measurement of either side is less than the sum of the measurements of the other two and greater than the absolute value of the difference between these measurements.
-- To obtain the absolute value of a number in JavaScript, search for the `Math.abs` function.
 - The return of your function must be a Boolean.
 
 Example: the return of `triangleCheck (10, 14, 8)` should be `true`.
