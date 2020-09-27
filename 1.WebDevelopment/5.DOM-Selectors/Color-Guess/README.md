@@ -2,6 +2,8 @@
 
 ### 💡See the following example of what the project might look like after it's done.  
 
+![exemplo de um meme generator](./guess-the-color.gif)
+
 ## Mandatory Requirements:
 
 ### 1 - Your website must have a title with the name of your game
