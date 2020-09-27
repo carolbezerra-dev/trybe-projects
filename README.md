@@ -7,150 +7,153 @@ This repository contains all the learning projects developed by Carol Bezerra (h
 
 The program has more than 1,500 hours of classroom and online classes, covers Introduction to software development, Front-end, Back-end, Computer science, Software engineering, Agile methodologies and Soft skills.
 
-##### Bloco 3: Introdução - HTML & CSS
+##### Block 3: Introduction - HTML & CSS
 
-- [x] 3-5: _[Projeto - HTML & CSS - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/3.HTML-CSS)_ and _[Projeto - HTML & CSS - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/3.HTML-CSS/)_
+- [x] 3-5: _[Project - HTML & CSS - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/3.HTML-CSS)_ and  _[Projeto - HTML & CSS - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/3.HTML-CSS/)_
 
-##### Bloco 4: Introdução - JavaScript
+##### Block 4: Introduction - JavaScript
 
-- [x] 4-5: _[Projeto - Playground Functions](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/4.JavaScript)_
+- [x] 4-5: _[Project - Playground Functions](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/4.JavaScript)_
 
-##### Bloco 5: Introdução - JavaScript - Projetos
+##### Block 5: Introduction - JavaScript - Projects
 
-- [x] 5-5: _[Projeto - Meme Generator - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Meme-Generator)_ and _[Projeto - Meme Generator - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Meme-Generator/)_
-- [x] 5-6: _[Projeto - Pixel Art - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Pixels-Art)_ and _[Projeto - Pixel Art - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Pixels-Art/)_
-- [x] 5-7: _[Projeto - Lista de tarefas - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/ToDo-List)_ and _[Projeto - Lista de tarefas - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/ToDo-List/)_
-- [x] 5-7: _[Projeto - Adivinhe a Cor - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Color-Guess)_ and _[Projeto - Adivinhe a Cor - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Color-Guess/)_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [x] 5-5: _[Project - Meme Generator - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Meme-Generator)_ and _[Project - Meme Generator - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Meme-Generator/)_
+- [x] 5-6: _[Project - Pixel Art - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Pixels-Art)_ and _[Project - Pixel Art - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Pixels-Art/)_
+- [x] 5-7: _[Project - To Do List - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/ToDo-List)_ and _[Project - To Do List - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/ToDo-List/)_
+- [x] 5-7: _[Project - Guess Color - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Color-Guess)_ and _[Project - Guess Color - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Color-Guess/)_
+- [ ] 5-7: _[Project - Mistery Letter]()_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+##### Block 6: Introduction - Front-end
 
-##### Bloco 6: Introdução - Front-end
+- [ ] 6-6: _[Project - Facebook LogIn Page]()_
 
-- [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
+##### Block 7: JavaScript ES6 & Unitary Tests
 
-##### Bloco 7: JavaScript ES6 & Testes Unitários
+- [ ] 7-4: _[Project - JavaScript Unitary Tests]()_
 
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+##### Block 8: JavaScript ES6
 
-##### Bloco 8: JavaScript ES6
+- [ ] 8-5: _[Project - Zoo Functions]()_
 
-- [ ] 8-5: _[Projeto - Zoo functions]()_
+##### Block 9: Asynchronicity & Callbacks
 
-##### Bloco 9: Assincronicidade & Callbacks
+- [ ] 9-3: _[Project - Shopping Cart]()_
 
-- [ ] 9-3: _[Projeto - Carrinho de Compras]()_
+##### Block 10: Jest
 
-##### Bloco 10: Jest
+- [ ] 10-4: _[Project - Asynchronous Jest e Mocking]()_
 
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
-##### Bloco 11: IntroduÃ§Ã£o - React
+## Front-end Development :hourglass_flowing_sand:
 
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
+##### Block 11: Introduction - React
 
-##### Bloco 12: React
+- [ ] 11-3: _[Project - Movie Cards Library]()_
 
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+##### Block 12: React
 
-##### Bloco 13: React
+- [ ] 12-3: _[Project - Movie Cards Library Stateful]()_
 
-- [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+##### Block 13: React
 
-##### Bloco 14: Metodologias Ágeis
+- [ ] 13-4: _[Project - Movie Cards Library CRUD]()_
 
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
+##### Block 14: Agile Methodologies
 
-##### Bloco 15: Testes em React
+- [ ] 14-2: _[Project - Frontend Online Store]()_
 
-- [ ] 15-3: _[Projeto - Testes em React]()_
+##### Block 15: Tests in React
 
-##### Bloco 16: IntroduÃ§Ã£o ao Redux
+- [ ] 15-3: _[Project - Tests in React]()_
 
-- [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
+##### Block 16: Introduction ao Redux
 
-##### Bloco 17: Projeto React
+- [ ] 16-6: _[Project - Table with data filters]()_
 
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
+##### Block 17: Project React
 
-##### Bloco 18: React & Context API
+- [ ] 17-1: _[Project - Trivia Game]()_
 
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+##### Block 18: React & Context API
 
-##### Bloco 19: Projeto Final de Front-end
+- [ ] 18-4: _[Project - StarWars Datatable com Context API e Hooks]()_
 
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+##### Block 19: Front-end Final Project
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+- [ ] 19-1: _[Project - Recipes App]()_
 
-##### Bloco 20: Introdução - Bancos de dados relacionais
 
-- [ ] 20-5: _[Projeto - All For One]()_
+## Back-end Development :hourglass_flowing_sand:
 
-##### Bloco 21: Bancos de dados relacionais
+##### Block 20: Introduction - Relational databases
 
-- [ ] 21-4: _[Projeto - Vocabulary Booster]()_
+- [ ] 20-5: _[Project - All For One]()_
 
-##### Bloco 22: Bancos de dados relacionais
+##### Block 21: Relational databases
 
-- [ ] 22-3: _[Projeto - One For All]()_
+- [ ] 21-4: _[Project - Vocabulary Booster]()_
 
-##### Bloco 23: Introdução - NoSQL
+##### Block 22: Relational databases
 
-- [ ] 23-3: _[Projeto - Data Flights]()_
+- [ ] 22-3: _[Project - One For All]()_
 
-##### Bloco 24: Updates
+##### Block 23: Introduction - NoSQL
 
-- [ ] 24-4: _[Projeto - Commerce]()_
+- [ ] 23-3: _[Project - Data Flights]()_
 
-##### Bloco 25: Aggregation Framework
+##### Block 24: Updates
 
-- [ ] 25-3: _[Projeto - Aggregations]()_
+- [ ] 24-4: _[Project - Commerce]()_
 
-##### Bloco 26: Intro - NodeJS
+##### Block 25: Aggregation Framework
 
-- [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
+- [ ] 25-3: _[Project - Aggregations]()_
 
-##### Bloco 27: NodeJS
+##### Block 26: Introduction - NodeJS
 
-- [ ] 27-3: _[Projeto - Cookmaster]()_
+- [ ] 26-4: _[Project - A CLI of Ice and Fire]()_
 
-##### Bloco 28: NodeJS
+##### Block 27: NodeJS
 
-- [ ] 28-3: _[Projeto - Store Manager]()_
+- [ ] 27-3: _[Project - Cookmaster]()_
 
-##### Bloco 29: NodeJS
+##### Block 28: NodeJS
 
-- [ ] 29-3: _[Projeto - Cookmaster V2]()_
+- [ ] 28-3: _[Project - Store Manager]()_
 
-##### Bloco 30: IntroduÃ§Ã£o - Deploy
+##### Block 29: NodeJS
 
-- [ ] 30-3: _[Projeto - Stranger Things]()_
+- [ ] 29-3: _[Project - Cookmaster V2]()_
 
-##### Bloco 31: Projeto
+##### Block 30: Introduction - Deploy
 
-- [ ] 31-1: _[Projeto - Trybeer]()_
+- [ ] 30-3: _[Project - Stranger Things]()_
 
-##### Bloco 32: Arquitetura de Software
+##### Block 31: Project
 
-- [ ] 32-3: _[Projeto - API de Blogs]()_
+- [ ] 31-1: _[Project - Trybeer]()_
 
-##### Bloco 33: Sockets
+##### Block 32: Software Architecture
 
-- [ ] 30-3: _[Projeto - Webchat]()_
+- [ ] 32-3: _[Project - Blogs API]()_
 
-##### Bloco 34: Projeto
+##### Block 33: Sockets
 
-- [ ] 34-1: _[Projeto - Trybeer V2]()_
+- [ ] 30-3: _[Project - Webchat]()_
 
-## Ciência da Computação :hourglass_flowing_sand:
+##### Block 34: Project
 
-##### Bloco 35: Introdução - Ciência da Computação
+- [ ] 34-1: _[Project - Trybeer V2]()_
 
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
 
-##### Bloco 36: Python
+## Computer science :hourglass_flowing_sand:
 
-- [ ] 35-5: _[Projeto - Tech news]()_
+##### Block 35: Introduction - Computer science
+
+- [ ] 35-4: _[Project - Exploring the protocols]()_
+
+##### Block 36: Python
+
+- [ ] 36-5: _[Project - Tech news]()_
 
 # [...]
