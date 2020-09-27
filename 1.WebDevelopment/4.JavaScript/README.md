@@ -137,11 +137,7 @@ Example: if the function parameter is [1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 1], `genera
 
 ### 12 - Condition of existence of a triangle
 
-A triangle consists of three lines: `lineA`,` lineB` and `lineC`. Create a function called `triangleCheck` that should take the three lines as a parameter and return if it is possible to form a triangle with the values presented for each line
-
-To do so, keep in mind a few considerations:
-
-- The return of your function must be a Boolean.
+A triangle consists of three lines: `lineA`,` lineB` and `lineC`. Create a function called `triangleCheck` that should take the three lines as a parameter and return if it is possible to form a triangle with the values presented for each line.
 
 Example: the return of `triangleCheck (10, 14, 8)` should be `true`.
 
