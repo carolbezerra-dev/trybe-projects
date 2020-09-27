@@ -31,7 +31,7 @@
 
 - Its initial value must be 0.
 - For each hit, 3 points are added to the scoreboard
-- When you click the reset button, the scoreboard ** NO ** must be reset
+- When you click the reset button, the scoreboard **NO** must be reset
 
 ---
 
