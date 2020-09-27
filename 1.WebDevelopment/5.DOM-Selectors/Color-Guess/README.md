@@ -1,14 +1,6 @@
 # Welcome to the Guess Color Project repository!
 
-### 💡See the following example of what the project might look like after it's done. 
-
-<p align="center">
-  <img
-    class="rounded mx-auto d-block"
-    src="/guess-the-color.gif"
-    alt="Gif exibindo um jogo de adivinhar a cor"
-  >
-</p>
+### 💡See the following example of what the project might look like after it's done.  
 
 ## Mandatory Requirements:
 
