@@ -7,8 +7,6 @@
 
 ## Mandatory Requirements:
 
-## Project Requirements
-
 ### 1 - The page body must have a specific background color
 
 - rgb(253, 251, 251)
