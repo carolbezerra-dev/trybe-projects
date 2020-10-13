@@ -14,7 +14,7 @@
 - [x] 5-6: _[Project - Pixel Art - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Pixels-Art)_ and _[Project - Pixel Art - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Pixels-Art/)_
 - [x] 5-7: _[Project - To Do List - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/ToDo-List)_ and _[Project - To Do List - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/ToDo-List/)_
 - [x] 5-7: _[Project - Guess Color - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Color-Guess)_ and _[Project - Guess Color - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Color-Guess/)_
-- [ ] 5-7: _[Project - Mistery Letter]()_
+- [x] 5-7: _[Project - Mistery Letter - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/5.DOM-Selectors/Mistery-Letter)_ and _[Project - Guess Color - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Mistery-Letter/)_
 
 ##### Block 6: Introduction - Front-end
 
@@ -22,7 +22,7 @@
 
 ##### Block 7: JavaScript ES6 & Unitary Tests
 
-- [ ] 7-4: _[Project - JavaScript Unitary Tests]()_
+- [x] 7-4: _[Project - JavaScript Unitary Tests - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/7.ES6)_
 
 ##### Block 8: JavaScript ES6
 
