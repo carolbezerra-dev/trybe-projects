@@ -1,4 +1,4 @@
-# Welcome to Mistery Letter project!
+# Welcome to Mystery Letter project!
 
 ---
 
