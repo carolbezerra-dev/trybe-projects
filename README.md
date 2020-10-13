@@ -31,7 +31,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Block 7: JavaScript ES6 & Unitary Tests
 
-- [ ] 7-4: _[Project - JavaScript Unitary Tests]()_
+- [x] 7-4: _[Project - JavaScript Unitary Tests - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/7.ES6)_
 
 ##### Block 8: JavaScript ES6
 
