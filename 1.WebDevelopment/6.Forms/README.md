@@ -2,7 +2,7 @@
 
 ---
 
-### 💡 Look an idea of the page I must reproduce  
+### 💡 Look an idea of the page you must reproduce  
 
 Try to be as faithful as possible  
 
