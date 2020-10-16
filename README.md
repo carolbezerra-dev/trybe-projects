@@ -27,7 +27,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Block 6: Introduction - Front-end
 
-- [ ] 6-6: _[Project - Facebook LogIn Page]()_
+- [x] 6-6: _[Project - Facebook LogIn Page - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/master/1.WebDevelopment/6.Forms)_ and _[Project - Facebook LogIn Page - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/6.Forms/)_
 
 ##### Block 7: JavaScript ES6 & Unitary Tests
 
