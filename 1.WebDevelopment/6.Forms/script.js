@@ -8,8 +8,6 @@ const btnRegister = document.querySelector('#facebook-register');
 
 function emptyInput(event) { // função para saber se tem algum input vazio
   event.preventDefault(); // para que não atualize a página ao clique do botão
-  // const errorMessage = document.createElement('p');
-  // document.querySelector('.right-content').appendChild(errorMessage);
   let finalMessage = document.querySelector('.quick-easy');
   finalMessage.classList.add('finalMessage');
   const inputGender = document.querySelectorAll('input[name="gender"]');
