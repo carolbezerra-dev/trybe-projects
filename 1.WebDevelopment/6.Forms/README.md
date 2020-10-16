@@ -4,7 +4,6 @@
 
 ### 💡 Look an idea of the page I must reproduce  
 
-[a registration/login page](https://www.facebook.com/).  
 Try to be as faithful as possible  
 
 ![Página Facebook](./facebook.png)
