@@ -46,7 +46,7 @@ Try to be as faithful as possible
 
 ### 18 - Validate that all fields have been completed by clicking on the "Register" button
 
-### 19 - Adicione um novo campo de texto no formulário se a pessoa usuária selecionar a opção "Personalizado" no campo Gênero  
+### 19 - Text location on the form if a user selects the "Custom" option in the Gender field 
 I removed this item in my final version of the project  
 
 ### 20 - Replace the content of the container with the right-content class if the form is completely filled out and validated
