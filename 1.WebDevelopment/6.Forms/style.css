@@ -9,54 +9,54 @@ body {
 
 .top-bar {
   background-color: #3b5998;
-  line-height: 1.34;
-  height: 82px;
-  min-width: 980px;
-  margin: 0 auto;
-  padding-top: 13px;
   display: flex;
+  height: 82px;
   justify-content: space-around;
+  line-height: 1.34;
+  margin: 0 auto;
+  min-width: 980px;
+  padding-top: 13px;
 }
 
 .top-bar h1 {
-  font-family: inherit;
-  font-weight: 600;
+  align-items: center;
   color: white;
   display: flex;
-  align-items: center;
+  font-family: inherit;
+  font-weight: 600;
 }
 
 .facebook-login {
-  font-family: inherit;
-  display: flex;
   color: white;
+  display: flex;
+  font-family: inherit;
 }
 
 .form-group {
   display: flex;
   flex-direction: column;
+  font-size: 12px;
   justify-content: center;
   margin-right: 2%;
-  font-size: 12px;
 }
 
 .form-group input {
-  outline: none;
   height: 23%;
+  outline: none;
 }
 
 .form-control {
-  display: flex;
   align-items: center;
+  display: flex;
   margin-top: 3.5%;
 }
 
 .button-login {
   background-color: #3b5998;
-  color: white;
-  width: 50px;
-  height: 25px;
   border: 1px solid white;
+  color: white;
+  height: 25px;
+  width: 50px;
 }
 
 .main-content {
@@ -65,11 +65,11 @@ body {
 }
 
 .left-content {
+  display: flex;
+  flex-direction: column;
   margin-left: 5%;
   margin-right: 15px;
   width: 565px;
-  display: flex;
-  flex-direction: column;
 }
 
 .facebook-slogan {
@@ -79,29 +79,28 @@ body {
   line-height: 29px;
   margin-top: 40px;
   width: 450px;
-  word-spacing: -1px
 }
 
 .facebook-networking {
-  width: 537px;
   height: 195px;
+  width: 537px;
 }
 
 .right-content {
-  min-width: 400px;
   display: flex;
   flex-wrap: wrap;
   margin-left: 10%;
+  min-width: 400px;
 }
 
 .right-content h1 {
-  font-size: 36px;
   color: #333;
+  font-size: 36px;
   font-weight: 600;
   margin-bottom: 5px;
-  padding-top: 20px;
   margin-right: 30%;
   padding-right: 10%;
+  padding-top: 20px;
 }
 
 .quick-easy, .finalMessage {
@@ -120,17 +119,17 @@ body {
 }
 
 .nameComplete input {
-  outline: none;
-  padding: 1%;
   margin-right: 1%;
   margin-bottom: 2%;
+  outline: none;
+  padding: 1%;
 }
 
 .mobile, .password {
-  width: 62%;
-  padding: 1%;
   margin-bottom: 2%;
   outline: none;
+  padding: 1%;
+  width: 62%;
 }
 
 .birthday {
@@ -141,37 +140,35 @@ body {
 }
 
 .birthdate {
-  margin-top: 1%;
   margin-bottom: 3%;
+  margin-top: 1%;
 }
 
 .gender {
-  margin-right: 1%;
   color: #1d2129;
   font-size: 19px;
   font-weight: normal;
+  margin-right: 1%;
 }
 
 .final-info {
   color: #777;
   font-size: 13px;
-  margin-top: 2%;
   margin-bottom: 2%;
   margin-right: 25%;
+  margin-top: 2%;
 }
 
 .button-sign {
-  min-width: 194px;
-  padding: 7px 20px;
-  text-align: center;
   background-color: #69a74e;
-  box-shadow: inset 0 1px 1px #a4e388;
-  border-color: #3b6e22 #3b6e22 #2c5115;
-  color: #fff;
-  cursor: pointer;
   border: 1px solid;
   border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  min-width: 194px;
   outline: none;
+  padding: 7px 20px;
+  text-align: center;
 }
 
 .create-page {
