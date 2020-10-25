@@ -35,7 +35,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Block 8: JavaScript ES6
 
-- [ ] 8-5: _[Project - Zoo Functions]()_
+- [x] 8-5: _[Project - Zoo Functions](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/8.Higher-Order-Functions)_
 
 ##### Block 9: Asynchronicity & Callbacks
 
