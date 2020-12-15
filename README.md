@@ -3,7 +3,7 @@ Here I put the learning projects in Trybe <br>
 Trybe is a school for people who want to build a successful career in technology and who are fully committed to their students
 
 # Trybe
-This repository contains all the learning projects developed by Carol Bezerra (https://github.com/carolbezerra-dev) while studying at _[Trybe](https://www.betrybe.com/) :rocket:
+This repository contains all the learning projects developed by Carol Bezerra (https://github.com/carolbezerra-dev) while studying at [Trybe](https://www.betrybe.com/) :rocket:
 
 The program has more than 1,500 hours of classroom and online classes, covers Introduction to software development, Front-end, Back-end, Computer science, Software engineering, Agile methodologies and Soft skills.  
   
