@@ -4,7 +4,8 @@
 
 ### 💡See the following example of what the project might look like after it's done.
 
-![exemplo de uma mistery letter](./mistery-letter-example.gif)
+![exemplo de uma mistery letter](./mystery-letter-example.gif)
+
 ---
 
 ## Mandatory Requirements:
