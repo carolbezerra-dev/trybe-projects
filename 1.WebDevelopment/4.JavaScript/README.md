@@ -10,7 +10,7 @@ Create a function called `compareTrue` that, when receiving two booleans
 
 ### 2 - Triangle area
 
-Write a function named `calcArea` that receives a base value (called` base`) and a height value (called `height`) of a triangle and returns the calculation of its area.
+Write a function named `calcArea` that receives a base value (called `base`) and a height value (called `height`) of a triangle and returns the calculation of its area.
 
 Remember that the area of a triangle is calculated using the following formula: (base * height) / 2.
 
