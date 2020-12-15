@@ -24,7 +24,7 @@ Example: if the function receives the string `"go Trybe"`, the return should be 
 
 Write a function with the name `concatName` that, upon receiving an array of strings, returns a string with the format `'LAST ITEM, FIRST ITEM'`, regardless of the size of the array.
 
-Example: if the parameter passed to `concatName` is Array ['Lucas', 'Cassiano', 'Ferraz', 'Paolillo'], the function should return` Paolillo, Lucas`.
+Example: if the parameter passed to `concatName` is Array ['Lucas', 'Cassiano', 'Ferraz', 'Paolillo'], the function should return `Paolillo, Lucas`.
 
 ### 5 - Points in football
 
