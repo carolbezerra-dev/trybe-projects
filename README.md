@@ -39,11 +39,11 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Block 9: Asynchronicity & Callbacks
 
-- [ ] 9-3: _[Project - Shopping Cart]()_
+- [x] 9-3: _[Project - Shopping Cart - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/9.Promise)_ and _[Project - Shopping Cart - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/9.Promise/)_
 
 ##### Block 10: Jest
 
-- [ ] 10-4: _[Project - Asynchronous Jest e Mocking]()_
+- [x] 10-4: _[Project - Asynchronous Jest e Mocking - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/10.Jest-Mocks-Project)_
 
 
 ## Front-end Development :hourglass_flowing_sand:
