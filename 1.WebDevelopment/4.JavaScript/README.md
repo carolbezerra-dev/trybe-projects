@@ -10,7 +10,7 @@ Create a function called `compareTrue` that, when receiving two booleans
 
 ### 2 - Triangle area
 
-Write a function named `calcArea` that receives a base value (called` base`) and a height value (called `height`) of a triangle and returns the calculation of its area.
+Write a function named `calcArea` that receives a base value (called `base`) and a height value (called `height`) of a triangle and returns the calculation of its area.
 
 Remember that the area of a triangle is calculated using the following formula: (base * height) / 2.
 
@@ -24,7 +24,7 @@ Example: if the function receives the string `"go Trybe"`, the return should be 
 
 Write a function with the name `concatName` that, upon receiving an array of strings, returns a string with the format `'LAST ITEM, FIRST ITEM'`, regardless of the size of the array.
 
-Example: if the parameter passed to `concatName` is Array ['Lucas', 'Cassiano', 'Ferraz', 'Paolillo'], the function should return` Paolillo, Lucas`.
+Example: if the parameter passed to `concatName` is Array ['Lucas', 'Cassiano', 'Ferraz', 'Paolillo'], the function should return `Paolillo, Lucas`.
 
 ### 5 - Points in football
 
@@ -40,11 +40,11 @@ Example: if the parameter of `highestCount` is an array with values `[9, 1, 2, 3
 
 ### 7 - Mouse Hunt
 
-Imagine that there are two cats, which we will call `cat1` and` cat2`, and that both are after a mouse called `mouse`. Imagine that each of the three animals is in a position represented by a number.
+Imagine that there are two cats, which we will call `cat1` and `cat2`, and that both are after a mouse called `mouse`. Imagine that each of the three animals is in a position represented by a number.
 
-Knowing this, create a function called `catAndMouse` that, upon receiving the position of` mouse`, `cat1` and` cat2`, **in that order**, calculate the distances between the mouse and the cats and return which of the felines will reach the mouse first (the one that will be closest).
+Knowing this, create a function called `catAndMouse` that, upon receiving the position of `mouse`, `cat1` and` cat2`, **in that order**, calculate the distances between the mouse and the cats and return which of the felines will reach the mouse first (the one that will be closest).
 
-Example: if the cat `cat2` is 2 units away from the mouse, and` cat1` is 3 units away, its function should return `'cat2'`.
+Example: if the cat `cat2` is 2 units away from the mouse, and `cat1` is 3 units away, its function should return `'cat2'`.
 
 If the cats are at the same distance from the mouse, the function should return the string `"cats bump and the mouse runs away"`.
 

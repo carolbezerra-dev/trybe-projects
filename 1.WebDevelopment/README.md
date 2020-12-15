@@ -18,7 +18,7 @@
 
 ##### Block 6: Introduction - Front-end
 
-- [ ] 6-6: _[Project - Facebook LogIn Page]()_
+- [x] 6-6: _[Project - Facebook LogIn Page - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/6.Forms)_ and _[Project - Facebook LogIn Page - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/6.Forms/)_
 
 ##### Block 7: JavaScript ES6 & Unitary Tests
 
@@ -26,7 +26,7 @@
 
 ##### Block 8: JavaScript ES6
 
-- [ ] 8-5: _[Project - Zoo Functions]()_
+- [x] 8-5: _[Project - Zoo Functions](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/8.Higher-Order-Functions)_
 
 ##### Block 9: Asynchronicity & Callbacks
 
