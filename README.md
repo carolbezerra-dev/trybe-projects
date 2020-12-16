@@ -50,7 +50,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Block 11: Introduction - React
 
-- [ ] 11-3: _[Project - Movie Cards Library]()_
+- [x] 11-3: _[Project - Movie Cards Library - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/11.React-Introduction)_
 
 ##### Block 12: React
 
