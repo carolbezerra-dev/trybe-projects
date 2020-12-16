@@ -37,5 +37,10 @@
     "enzyme-adapter-react-16": "^1.15.1",
     "eslint": "^6.6.0",
     "eslint-config-airbnb": "^18.0.1"
-  }
+  },
+  "homepage": "https://carolbezerra-dev.github.io/trybe-projects/2.FrontEnd/11.React-Introduction",
+  "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+},
 }
