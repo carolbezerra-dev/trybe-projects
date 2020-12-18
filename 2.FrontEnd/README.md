@@ -6,7 +6,7 @@
 
 ##### Block 12: React
 
-- [ ] 12-3: _[Project - Movie Cards Library Stateful]()_
+- [x] 12-3: _[Project - Movie Cards Library Stateful - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/12.Forms-React)_ and _[Project - Movie Cards Library Stateful - PAGE](https://movie-card-library-stateful.vercel.app/)_  
 
 ##### Block 13: React
 
