@@ -99,7 +99,7 @@ body {
   font-weight: 500;
 }
 
-.link-add-card {
+.link-add-card, .button-submit {
   background-color: #e9dc29;
   border: 2px solid #e9dc29;
   color: #343a40;
@@ -112,7 +112,9 @@ body {
   text-decoration: none;
 }
 
-.link-add-card:hover, .link-details:hover {
+.link-add-card:hover,
+.link-details:hover,
+.button-submit:hover {
   background-color: #3a89df;
   border: 2px solid #3a89df;
   font-weight: 500;
@@ -152,10 +154,6 @@ body {
   margin-top: 0.5%;
 }
 
-/* .link-details-edit {
-  margin-left: 2%;
-} */
-
 .link-details {
   background-color: #e9dc29;
   border: 2px solid #e9dc29;
@@ -167,4 +165,28 @@ body {
   text-decoration: none;
 }
 
+.text-input,
+.text-subtitile,
+.text-image,
+.text-storyline,
+.select,
+.number-input {
+  border: 1px solid #e9dc29;
+  outline: none;
+  margin-left: 35%;
+  margin-right: 1%;
+  margin-top: 2%;
+  padding: 0.3%;
+  font-size: 16px;
+}
+
+.movie_title,
+.movie_subtitle,
+.movie_image,
+.movie_storyline,
+.movie_genre,
+.movie_rating,
+.button-submit {
+  font-size: 20px;
+}
 
