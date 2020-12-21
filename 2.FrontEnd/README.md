@@ -10,7 +10,7 @@
 
 ##### Block 13: React
 
-- [ ] 13-4: _[Project - Movie Cards Library CRUD]()_
+- [x] 13-4: _[Project - Movie Cards Library CRUD - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/13.React-Router)_ and _[Project - Movie Cards Library CRUD - PAGE](https://movie-card-library-crud-project.vercel.app/)_
 
 ##### Block 14: Agile Methodologies
 
