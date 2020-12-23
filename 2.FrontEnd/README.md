@@ -14,7 +14,7 @@
 
 ##### Block 14: Agile Methodologies
 
-- [ ] 14-2: _[Project - Frontend Online Store]()_
+- [x] 14-2: _[Project - Frontend Online Store - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/14.Frontend-Online-store)_
 
 ##### Block 15: Tests in React
 
