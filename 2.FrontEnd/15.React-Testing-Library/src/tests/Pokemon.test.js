@@ -5,8 +5,8 @@ import userEvent from '@testing-library/user-event';
 import { createMemoryHistory } from 'history';
 import App from '../App';
 
-describe('sexto requisito', () => {
-  test('se é renderizado um card com as informações de determinado pokémon', () => {
+describe('Testing the Pokemon.js file', () => {
+  test('if a card is rendered with the information of a certain Pokémon', () => {
     const history = createMemoryHistory();
     const {
       getByText,
@@ -21,25 +21,25 @@ describe('sexto requisito', () => {
       </Router>,
     );
 
-    // O nome correto do Pokémon deve ser mostrado na tela;
+    // The correct name of the Pokémon should be shown on the screen;
     expect(getByTestId('pokemon-name').tagName).toBe('P');
     expect(getByText('Pikachu')).toBeInTheDocument();
     expect(queryByText('Pikachuu')).not.toBeInTheDocument();
-    // O tipo correto do pokémon deve ser mostrado na tela.
+    // The correct type of pokémon should be shown on the screen.
     expect(getByTestId('pokemonType').tagName).toBe('P');
     expect(getByTestId('pokemonType')).toHaveTextContent('Electric');
     expect(queryByTestId('pokemonType')).not.toHaveTextContent('Fire');
-    /* O peso médio do pokémon deve ser exibido com um texto no formato Average weight: <value> <measurementUnit>; onde <value> e <measurementUnit> são, respectivamente, o peso médio do pokémon e sua unidade de medida. */
+    /* The average weight of the Pokémon must be displayed with text in the format Average weight: <value> <measurementUnit>; where <value> and <measurementUnit> are, respectively, the average weight of the pokémon and its unit of measurement. */
     expect(getByTestId('pokemon-weight').tagName).toBe('P');
     expect(getByTestId('pokemon-weight')).toHaveTextContent('Average weight: 6.0 kg');
     expect(queryByTestId('pokemon-weight')).not.toHaveTextContent('Average weight: 6 kg');
-    /* A imagem do Pokémon deve ser exibida. Ela deve conter um atributo src com a URL da imagem e um atributo alt com o texto <name> sprite, onde <name> é o nome do pokémon; */
+    /* The Pokémon image should be displayed. It must contain a src attribute with the image URL and an alt attribute with the text <name> sprite, where <name> is the name of the pokémon; */
     const imgSrc = 'https://cdn.bulbagarden.net/upload/b/b2/Spr_5b_025_m.png';
     expect(getByRole('img').src).toBe(imgSrc);
     expect(getByAltText('Pikachu sprite')).toBeInTheDocument();
   });
 
-  test('se o card contém um link de navegação para exibir detalhes', () => {
+  test('whether the card contains a navigation link to display details', () => {
     const history = createMemoryHistory();
     const { getByText } = render(
       <Router history={ history }>
@@ -51,7 +51,7 @@ describe('sexto requisito', () => {
     expect(moreDetailsLink.tagName).toBe('A');
   });
 
-  test('se ao clicar no link, é feito redirecionamento para a página de detalhes', () => {
+  test('if clicking on the link redirects to the details page', () => {
     const history = createMemoryHistory();
     const { getByText, queryAllByRole } = render(
       <Router history={ history }>
@@ -62,15 +62,15 @@ describe('sexto requisito', () => {
     expect(getByText('More details')).toBeInTheDocument();
     fireEvent.click(getByText('More details'));
     const allHeadings = queryAllByRole('heading');
-    const QUATRO = 4;
-    expect(allHeadings.length).toBe(QUATRO);
+    const FOUR = 4;
+    expect(allHeadings.length).toBe(FOUR);
     expect(allHeadings[0]).toHaveTextContent('Pokédex');
     expect(allHeadings[1]).toHaveTextContent('Pikachu Details');
     expect(allHeadings[2]).toHaveTextContent('Summary');
     expect(allHeadings[3]).toHaveTextContent('Game Locations of Pikachu');
   });
 
-  test('se a URL exibida no navegador muda para /pokemon/<id>', () => {
+  test('if the URL displayed in the browser changes to / pokemon / <id>', () => {
     const history = createMemoryHistory();
     const { getByText } = render(
       <Router history={ history }>
@@ -88,7 +88,7 @@ describe('sexto requisito', () => {
     expect(pathname).toBe('/pokemons/4');
   });
 
-  test('se existe um ícone de estrela nos Pokémons favoritados.', () => {
+  test('if there is a star icon on favorite Pokémon.', () => {
     const history = createMemoryHistory();
     const { getByText, getByLabelText, getByAltText, getAllByRole } = render(
       <Router history={ history }>
@@ -105,9 +105,9 @@ describe('sexto requisito', () => {
     expect(labelInput).toBeInTheDocument();
     userEvent.click(labelInput);
     expect(labelInput).toBeChecked();
-    // O ícone deve ser uma imagem com o atributo src contendo o caminho /star-icon.svg;
+    // The icon must be an image with the src attribute containing the /star-icon.svg path;
     expect(getAllByRole('img')[1].src).toBe('http://localhost/star-icon.svg');
-    // A imagem deve ter o atributo alt igual a <pokemon> is marked as favorite, onde <pokemon> é o nome do Pokémon exibido.
+    /* The image must have the alt attribute equal to <pokemon> is marked as favorite, where <pokemon> is the name of the displayed Pokémon. */
     expect(getByAltText('Caterpie is marked as favorite')).toBeInTheDocument();
   });
 });
