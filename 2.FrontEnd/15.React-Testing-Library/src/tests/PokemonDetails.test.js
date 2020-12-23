@@ -5,8 +5,8 @@ import userEvent from '@testing-library/user-event';
 import { createMemoryHistory } from 'history';
 import App from '../App';
 
-describe('sétimo requisito', () => {
-  test('se as informações detalhadas são mostradas na tela', () => {
+describe('Testing the PokemonDetails.js file', () => {
+  test('whether detailed information is shown on the screen', () => {
     const history = createMemoryHistory();
     const { getByText, getAllByRole, queryByText } = render(
       <Router history={ history }>
@@ -18,22 +18,22 @@ describe('sétimo requisito', () => {
     fireEvent.click(getByText('More details'));
     const { pathname } = history.location;
     expect(pathname).toBe('/pokemons/25');
-    // A página deve conter um texto <name> Details, onde <name> é o nome do Pokémon;
+    // The page must contain a text <name> Details, where <name> is the name of the Pokémon;
     expect(getByText('Pikachu Details')).toBeInTheDocument();
-    // Não deve existir o link de navegação para os detalhes do Pokémon selecionado.
+    // There should be no navigation link for the details of the selected Pokémon.
     expect(queryByText('More details')).not.toBeInTheDocument();
-    // A seção de detalhes deve conter um heading h2 com o texto Summary.
+    // The details section should contain an heading h2 with the text Summary.
     const h2Tag = getAllByRole('heading');
     expect(h2Tag[2]).toHaveTextContent('Summary');
     expect(getByText('Summary').tagName).toBe('H2');
-    // A seção de detalhes deve conter um parágrafo com o resumo do Pokémon específico sendo visualizado.
+    // The details section should contain a paragraph with the summary of the specific Pokémon being viewed.
     const p1Part1 = 'This intelligent Pokémon roasts hard berries with electricity';
     const p1Part2 = ' to make them tender enough to eat.';
     const paragraph = getByText(p1Part1 + p1Part2);
     expect(paragraph.tagName).toBe('P');
   });
 
-  test('se existe uma seção com os mapas contendo as localizações do pokémon', () => {
+  test('if there is a section with the maps containing the locations of the pokémon', () => {
     const history = createMemoryHistory();
     const { getByText, getAllByRole, getByAltText } = render(
       <Router history={ history }>
@@ -47,25 +47,25 @@ describe('sétimo requisito', () => {
     fireEvent.click(getByText('More details'));
     const { pathname } = history.location;
     expect(pathname).toBe('/pokemons/23');
-    // Na seção de detalhes deverá existir um heading h2 com o texto Game Locations of <name>; onde <name> é o nome do Pokémon exibido.
+    /* In the details section there should be a heading h2 with the text Game Locations of <name>; where <name> is the name of the Pokémon displayed. */
     const gameLocations = getByText('Game Locations of Ekans');
     expect(gameLocations).toBeInTheDocument();
     expect(gameLocations.tagName).toBe('H2');
-    // Todas as localizações do Pokémon devem ser mostradas na seção de detalhes;
-    // Devem ser exibidos, o nome da localização e uma imagem do mapa em cada localização;
+    // All Pokémon locations must be shown in the details section;
+    // Should be displayed, the name of the location and a map image at each location;
     expect(getByText('Goldenrod Game Corner')).toBeInTheDocument();
-    // A imagem da localização deve ter um atributo src com a URL da localização;
+    // The location image must have an src attribute with the location URL;
     const images = getAllByRole('img');
     const DOIS = 2;
     expect(images.length).toBe(DOIS);
     expect(images[1].src).toBe(
       'https://cdn.bulbagarden.net/upload/e/ec/Johto_Goldenrod_City_Map.png',
     );
-    // A imagem da localização deve ter um atributo alt com o texto <name> location, onde <name> é o nome do Pokémon;
+    /* The location image must have an alt attribute with the text <name> location, where <name> is the name of the Pokémon; */
     expect(getByAltText('Ekans location')).toBeInTheDocument();
   });
 
-  test('se o usuário pode favoritar um pokémon através da página de detalhes', () => {
+  test('if the user can favor a pokémon through the details page', () => {
     const history = createMemoryHistory();
     const { getByText, getByLabelText } = render(
       <Router history={ history }>
@@ -79,12 +79,12 @@ describe('sétimo requisito', () => {
     fireEvent.click(getByText('More details'));
     const { pathname } = history.location;
     expect(pathname).toBe('/pokemons/143');
-    // A página deve exibir um checkbox que permite favoritar o Pokémon;
-    // O label do checkbox deve conter o texto Pokémon favoritado?;
+    // The page should display a checkbox that allows you to favor the Pokémon;
+    // Should the checkbox label contain the 'Pokémon favoritado?' text;
     const labelInput = getByLabelText('Pokémon favoritado?');
     expect(labelInput.type).toBe('checkbox');
     expect(labelInput).toBeInTheDocument();
-    // Cliques alternados no checkbox devem adicionar e remover respectivamente o Pokémon da lista de favoritos;
+    /* Alternating clicks in the checkbox should add and remove the Pokémon from the list of favorites, respectively; */
     userEvent.click(labelInput);
     expect(labelInput).toBeChecked();
     userEvent.click(labelInput);
