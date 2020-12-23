@@ -14,11 +14,11 @@
 
 ##### Block 14: Agile Methodologies
 
-- [ ] 14-2: _[Project - Frontend Online Store]()_
+- [x] 14-2: _[Project - Frontend Online Store - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/14.Frontend-Online-store)_
 
 ##### Block 15: Tests in React
 
-- [ ] 15-3: _[Project - Tests in React]()_
+- [x] 15-3: _[Project - Tests in React - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/15.React-Testing-Library)_
 
 ##### Block 16: Introduction ao Redux
 

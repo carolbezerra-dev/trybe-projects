@@ -66,7 +66,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Block 15: Tests in React
 
-- [ ] 15-3: _[Project - Tests in React]()_
+- [x] 15-3: _[Project - Tests in React - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/15.React-Testing-Library)_
 
 ##### Block 16: Introduction ao Redux
 
