@@ -10,7 +10,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Block 3: Introduction - HTML & CSS
 
-- [x] 3-5: _Project - HTML & CSS_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/3.HTML-CSS) and  [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/3.HTML-CSS/)_
+- [x] 3-5: _Project - HTML & CSS_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/3.HTML-CSS) and  [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/3.HTML-CSS/)
 
 ##### Block 4: Introduction - JavaScript
 
