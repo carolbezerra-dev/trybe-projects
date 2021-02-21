@@ -1,6 +1,5 @@
-# trybe-projects
-Here I put the learning projects in Trybe <br>
-Trybe is a school for people who want to build a successful career in technology and who are fully committed to their students
+# trybe-projects-front-end
+Here I put the learning projects in Trybe  
 
 # Trybe
 This repository contains all the learning projects developed by Carol Bezerra (https://github.com/carolbezerra-dev) while studying at [Trybe](https://www.betrybe.com/) :rocket:
@@ -11,151 +10,75 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Block 3: Introduction - HTML & CSS
 
-- [x] 3-5: _[Project - HTML & CSS - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/3.HTML-CSS)_ and  _[Projeto - HTML & CSS - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/3.HTML-CSS/)_
+- [x] 3-5: _Project - HTML & CSS_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/3.HTML-CSS) and  [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/3.HTML-CSS/)_
 
 ##### Block 4: Introduction - JavaScript
 
-- [x] 4-5: _[Project - Playground Functions](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/4.JavaScript)_
+- [x] 4-5: _Project - Playground Functions_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/4.JavaScript)
 
 ##### Block 5: Introduction - JavaScript - Projects
 
-- [x] 5-5: _[Project - Meme Generator - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Meme-Generator)_ and _[Project - Meme Generator - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Meme-Generator/)_
-- [x] 5-6: _[Project - Pixel Art - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Pixels-Art)_ and _[Project - Pixel Art - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Pixels-Art/)_
-- [x] 5-7: _[Project - To Do List - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/ToDo-List)_ and _[Project - To Do List - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/ToDo-List/)_
-- [x] 5-7: _[Project - Guess Color - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Color-Guess)_ and _[Project - Guess Color - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Color-Guess/)_
-- [x] 5-7: _[Project - Mystery Letter - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter)_ and _[Project - Mystery Letter - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter/)_
+- [x] 5-5: _Project - Meme Generator_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Meme-Generator) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Meme-Generator/)
+- [x] 5-6: _Project - Pixel Art_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Pixels-Art) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Pixels-Art/)
+- [x] 5-7: _Project - To Do List_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/ToDo-List) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/ToDo-List/)
+- [x] 5-7: _Project - Guess Color_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Color-Guess) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Color-Guess/)
+- [x] 5-7: _Project - Mystery Letter_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/5.DOM-Selectors/Mystery-Letter/)
 
 ##### Block 6: Introduction - Front-end
 
-- [x] 6-6: _[Project - Facebook LogIn Page - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/6.Forms)_ and _[Project - Facebook LogIn Page - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/6.Forms/)_
+- [x] 6-6: _Project - Facebook LogIn Page_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/6.Forms) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/6.Forms/)
 
 ##### Block 7: JavaScript ES6 & Unitary Tests
 
-- [x] 7-4: _[Project - JavaScript Unitary Tests - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/7.ES6)_
+- [x] 7-4: _Project - JavaScript Unitary Tests_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/7.ES6)
 
 ##### Block 8: JavaScript ES6
 
-- [x] 8-5: _[Project - Zoo Functions](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/8.Higher-Order-Functions)_
+- [x] 8-5: _Project - Zoo Functions_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/8.Higher-Order-Functions)  
 
 ##### Block 9: Asynchronicity & Callbacks
 
-- [x] 9-3: _[Project - Shopping Cart - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/9.Promise)_ and _[Project - Shopping Cart - PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/9.Promise/)_
+- [x] 9-3: _Project - Shopping Cart_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/9.Promise) and [PAGE](https://carolbezerra-dev.github.io/trybe-projects/1.WebDevelopment/9.Promise/)
 
 ##### Block 10: Jest
 
-- [x] 10-4: _[Project - Asynchronous Jest e Mocking - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/10.Jest-Mocks-Project)_
+- [x] 10-4: _Project - Asynchronous Jest e Mocking_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/1.WebDevelopment/10.Jest-Mocks-Project)
 
 
 ## Front-end Development :hourglass_flowing_sand:
 
 ##### Block 11: Introduction - React
 
-- [x] 11-3: _[Project - Movie Cards Library - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/11.React-Introduction)_ and _[Project - Movie Cards Library - PAGE](https://movie-cards-library-project.vercel.app/)_
+- [x] 11-3: _Project - Movie Cards Library_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/11.React-Introduction)
 
 ##### Block 12: React
 
-- [x] 12-3: _[Project - Movie Cards Library Stateful - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/12.Forms-React)_ and _[Project - Movie Cards Library Stateful - PAGE](https://movie-card-library-stateful.vercel.app/)_  
+- [x] 12-3: _Project - Movie Cards Library Stateful_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/12.Forms-React) and [PAGE](https://movie-card-library-stateful.vercel.app/)
 
 ##### Block 13: React
 
-- [x] 13-4: _[Project - Movie Cards Library CRUD - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/13.React-Router)_ and _[Project - Movie Cards Library CRUD - PAGE](https://movie-card-library-crud-project.vercel.app/)_
+- [x] 13-4: _Project - Movie Cards Library CRUD_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/13.React-Router) and [PAGE](https://movie-card-library-crud-project.vercel.app/)
 
 ##### Block 14: Agile Methodologies
 
-- [x] 14-2: _[Project - Frontend Online Store - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/14.Frontend-Online-store)_
+- [x] 14-2: _Project - Frontend Online Store_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/14.Frontend-Online-store)
 
 ##### Block 15: Tests in React
 
-- [x] 15-3: _[Project - Tests in React - CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/15.React-Testing-Library)_
+- [x] 15-3: _Project - Tests in React_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/15.React-Testing-Library)
 
 ##### Block 16: Introduction ao Redux
 
-- [ ] 16-6: _[Project - Table with data filters]()_
+- [x] 16-6: _Project - Trybe Wallet_ - CODE and PAGE
 
 ##### Block 17: Project React
 
-- [ ] 17-1: _[Project - Trivia Game]()_
+- [x] 17-1: _Project - Trivia Game_ - CODE
 
 ##### Block 18: React & Context API
 
-- [ ] 18-4: _[Project - StarWars Datatable com Context API e Hooks]()_
+- [x] 18-4: _Project - StarWars Datatable com Context API e Hooks_ - CODE
 
 ##### Block 19: Front-end Final Project
 
-- [ ] 19-1: _[Project - Recipes App]()_
-
-
-## Back-end Development :hourglass_flowing_sand:
-
-##### Block 20: Introduction - Relational databases
-
-- [ ] 20-5: _[Project - All For One]()_
-
-##### Block 21: Relational databases
-
-- [ ] 21-4: _[Project - Vocabulary Booster]()_
-
-##### Block 22: Relational databases
-
-- [ ] 22-3: _[Project - One For All]()_
-
-##### Block 23: Introduction - NoSQL
-
-- [ ] 23-3: _[Project - Data Flights]()_
-
-##### Block 24: Updates
-
-- [ ] 24-4: _[Project - Commerce]()_
-
-##### Block 25: Aggregation Framework
-
-- [ ] 25-3: _[Project - Aggregations]()_
-
-##### Block 26: Introduction - NodeJS
-
-- [ ] 26-4: _[Project - A CLI of Ice and Fire]()_
-
-##### Block 27: NodeJS
-
-- [ ] 27-3: _[Project - Cookmaster]()_
-
-##### Block 28: NodeJS
-
-- [ ] 28-3: _[Project - Store Manager]()_
-
-##### Block 29: NodeJS
-
-- [ ] 29-3: _[Project - Cookmaster V2]()_
-
-##### Block 30: Introduction - Deploy
-
-- [ ] 30-3: _[Project - Stranger Things]()_
-
-##### Block 31: Project
-
-- [ ] 31-1: _[Project - Trybeer]()_
-
-##### Block 32: Software Architecture
-
-- [ ] 32-3: _[Project - Blogs API]()_
-
-##### Block 33: Sockets
-
-- [ ] 30-3: _[Project - Webchat]()_
-
-##### Block 34: Project
-
-- [ ] 34-1: _[Project - Trybeer V2]()_
-
-
-## Computer science :hourglass_flowing_sand:
-
-##### Block 35: Introduction - Computer science
-
-- [ ] 35-4: _[Project - Exploring the protocols]()_
-
-##### Block 36: Python
-
-- [ ] 36-5: _[Project - Tech news]()_
-
-# [...]
+- [x] 19-1: _Project - Recipes App_ - CODE
