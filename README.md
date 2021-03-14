@@ -57,7 +57,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Block 13: React
 
-- [x] 13-4: _Project - Movie Cards Library CRUD_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/13.React-Router) and PAGE
+- [x] 13-4: _Project - Movie Cards Library CRUD_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/13.React-Router) and [PAGE](https://moviecards-library-crud.vercel.app/)
 
 ##### Block 14: Agile Methodologies
 
