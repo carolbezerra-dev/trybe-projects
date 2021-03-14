@@ -53,7 +53,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Block 12: React
 
-- [x] 12-3: _Project - Movie Cards Library Stateful_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/12.Forms-React) and PAGE
+- [x] 12-3: _Project - Movie Cards Library Stateful_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/12.Forms-React) and [PAGE](https://moviecards-library-stateful.vercel.app/)
 
 ##### Block 13: React
 
