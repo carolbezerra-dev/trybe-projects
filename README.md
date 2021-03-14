@@ -49,27 +49,27 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Block 11: Introduction - React
 
-- [x] 11-3: _Project - Movie Cards Library_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/11.React-Introduction)
+- [x] 11-3: _Project - Movie Cards Library_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/11.React-Introduction)
 
 ##### Block 12: React
 
-- [x] 12-3: _Project - Movie Cards Library Stateful_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/12.Forms-React) and [PAGE](https://movie-card-library-stateful.vercel.app/)
+- [x] 12-3: _Project - Movie Cards Library Stateful_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/12.Forms-React) and PAGE
 
 ##### Block 13: React
 
-- [x] 13-4: _Project - Movie Cards Library CRUD_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/13.React-Router) and [PAGE](https://movie-card-library-crud-project.vercel.app/)
+- [x] 13-4: _Project - Movie Cards Library CRUD_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/13.React-Router) and PAGE
 
 ##### Block 14: Agile Methodologies
 
-- [x] 14-2: _Project - Frontend Online Store_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/14.Frontend-Online-store)
+- [x] 14-2: _Project - Frontend Online Store_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/14.Frontend-Online-store)
 
 ##### Block 15: Tests in React
 
-- [x] 15-3: _Project - Tests in React_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects/tree/main/2.FrontEnd/15.React-Testing-Library)
+- [x] 15-3: _Project - Tests in React_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/15.React-Testing-Library)
 
 ##### Block 16: Introduction ao Redux
 
-- [x] 16-6: _Project - Trybe Wallet_ - CODE and PAGE
+- [x] 16-6: _Project - Trybe Wallet_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/2.Front-end/2.FrontEnd/16.Redux) and PAGE
 
 ##### Block 17: Project React
 
