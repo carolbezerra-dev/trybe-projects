@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+
+* {
+  background-color: #F5FFFA;
+  margin: 0;
+  padding: 0;
+}
+/* CSS to LOGIN PAGE*/
+.login-div {
+  align-items: center;
+  background-color: #D3D3D3;
+  border: 5px solid cadetblue;
+  border-radius: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 10%;
+  padding-bottom: 3%;
+  padding-top: 5%;
+}
+
+.title {
+  background-color: #D3D3D3;
+  color: darkcyan;
+  margin-bottom: 1%;
+  font-family: 'Raleway', sans-serif;
+  font-size: 80pt;
+}
+
+.email-input, .password-input {
+  background-color: #E0FFFF;
+  border: 2px solid #E0FFFF;
+  color: darkcyan;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16pt;
+  margin-top: 1%;
+  outline: none;
+}
+
+.email-input:hover, .password-input:hover {
+  background-color: #DCDCDC;
+  border: 2px solid cadetblue;
+}
+
+.signin-button {
+  background-color: darkcyan;
+  border: 3px solid cadetblue;
+  color: #DCDCDC;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18pt;
+  padding-bottom: 0.3%;
+  padding-left: 0.7%;
+  padding-right: 0.7%;
+  padding-top: 0.3%;
+  margin-top: 2.5%;
+  outline: none;
+}
+/* CSS to HEADER */
+.header-div {
+  align-items: center;
+  background-color: #D3D3D3;
+  border: 5px solid cadetblue;
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+}
+
+.welcome, .total-header, .email-header {
+  background-color: #D3D3D3;
+  color: darkcyan;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20pt;
+}
+
+.signout {
+  background-color: #D3D3D3;
+  color: darkcyan;
+  font-family: 'Raleway', sans-serif;
+  font-size: 13pt;
+  text-decoration: none;
+}
+
+.signout:hover {
+  text-decoration: underline;
+}
+
+.wallet-div {
+  align-items: center;
+  background-color: cadetblue;
+  border: 5px solid #D3D3D3;
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+}
+
+.wallet-value, .wallet-description {
+  background-color: #E0FFFF;
+  border: 2px solid #E0FFFF;
+  color: darkcyan;
+  font-family: 'Raleway', sans-serif;
+  font-size: 13pt;
+  margin-top: 0.8%;
+  outline: none;
+}
+
+.wallet-value:hover, .wallet-description:hover {
+  border: 2px solid cadetblue;
+}
+
+.wallet-currency, .wallet-method, .wallet-tag {
+  background-color: #E0FFFF;
+  color: darkcyan;
+  font-family: 'Raleway', sans-serif;
+  font-size: 13pt;
+  outline: none;
+}
+
+.wallet-button {
+  background-color: darkcyan;
+  border: 3px solid cadetblue;
+  color: #DCDCDC;
+  font-family: 'Raleway', sans-serif;
+  font-size: 13pt;
+  padding: 0.15%;
+  outline: none;
+}
+/* CSS to TABLE */
+.table-head {
+  align-items: center;
+  background-color: #D3D3D3;
+  border: 5px solid cadetblue;
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  width: 98.3vw;
+  border-collapse: collapse;
+}
+
+.header-cell {
+  background-color: #D3D3D3;
+  color: darkcyan;
+  margin-left: 1%;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15pt;
+}
+
+.table-body {
+  align-items: center;
+  background-color: cadetblue;
+  border: 5px solid #D3D3D3;
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  width: 98.3vw;
+  font-family: 'Raleway', sans-serif;
+}
+
+.body-cell {
+  background-color: cadetblue;
+  color: #E0FFFF;
+  font-size: 15pt;
+  font-family: 'Raleway', sans-serif;
+}
+
+
