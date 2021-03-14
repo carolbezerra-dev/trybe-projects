@@ -1,0 +1,68 @@
+body {
+  background-image: url('pexels-steve-johnson-1902415.jpg');
+}
+
+h1 {
+  padding: 10px;
+  text-align: center;
+}
+
+.color-palette {
+  display: inline-block;
+  margin-bottom: 20px;
+  margin-left: 520px;
+}
+
+.color {
+  border: 1px solid black;
+  display: inline-block;
+  height: 60px;
+  margin-right: 10px;
+  width: 60px;
+}
+
+.color:hover {
+  border: 1px solid yellow;
+}
+
+.user-space {
+  margin-left: 550px;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 12pt;
+  margin-left: 20px;
+}
+
+button:hover {
+  border: 1px solid yellow;
+  background-color: gray;
+}
+
+p {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 38pt;
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-decoration: underline overline;
+}
+
+p:hover {
+  color: #8e44ad;
+}
+
+.pixel-board {
+  display: table;
+  height: 2010px;
+  width: 2010px;
+}
+
+.pixel {
+  background-color: white;
+  border: 1px solid black;
+  display: table-cell;
+  height: 40px;
+  width: 40px;
+}

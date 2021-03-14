@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Facebook Project</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="top-bar">
+      <h1>facebook</h1>
+      <form action="" class="facebook-login" required>
+        <div class="form-group">
+          <label for="user-email-phone" id="user-email-phone-label"
+            >Email or Phone</label
+          >
+          <input type="text" name="user-email-phone" id="user-email-phone" required />
+        </div>
+        <div class="form-group">
+          <label for="" id="user-password-label">Passward</label>
+          <input type="password" id="user-password" required />
+        </div>
+        <div class="form-control">
+          <button id="button-login" class="button-login">Log In</button>
+        </div>
+      </form>
+    </header>
+    <section class="main-content">
+      <div class="left-content">
+        <p class="facebook-slogan">
+          Facebook helps you connect and share with the people in your life.
+        </p>
+        <img
+          src="imgs/networking.png"
+          alt="networking"
+          class="facebook-networking"
+        />
+      </div>
+      <div class="right-content">
+        <h1 class="right-content-h1">Create an account</h1>
+        <span class="quick-easy">It's free and always will be.</span>
+        <form action="" class="cadastro">
+          <div class="nameComplete">
+            <input name="firstname" type="text" placeholder="First name" class="required" id="first-name" required/>
+            <input
+              name="lastname"
+              type="text"
+              placeholder="Surname"
+              class="lastname required"
+              id="last-name"
+            />
+          </div>
+          <input
+            type="text"
+            name="phone_email"
+            id="phone_email"
+            placeholder="Mobile number or email address"
+            class="mobile required"
+            required
+          />
+          <input
+            type="password"
+            name="password"
+            id="password"
+            placeholder="New password"
+            class="password required"
+            required
+          />
+          <br>
+          <label for="" id="label-birthdate" class="birthday">Birthday</label>
+          <input name="birthdate" type="date" placeholder="Birthday" class="birthdate" id="birthday" required>
+          <div class="radius">
+            <input type="radio"  name="gender" value="Female" class="gender">Female </input>
+            <input type="radio"  name="gender" value="Male" class="gender">Male</input>
+          </div>
+          <p class="final-info">By clicking Sign Up, you agree to our <a href="#">Terms, Data Policy</a> and <a href="#">Cookie Policy</a>. You may receive SMS notifications from us and can opt out at any time.</p>
+        <button type="submit" id="facebook-register" class="button-sign">Sign Up</button>
+        </form>
+        <p class="create-page"><a href="#">Create a Page</a> for a celebrity, band or business.</p>
+      </div>
+    </section>
+    <script src="script.js"></script>
+  </body>
+</html>
