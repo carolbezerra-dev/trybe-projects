@@ -7,7 +7,7 @@ class Table extends Component {
   render() {
     const { expenses, buttonDelete } = this.props;
     return (
-      <table>
+      <table className="table">
         <thead>
           <tr className="table-head">
             <th className="header-cell">Description</th>
@@ -37,7 +37,7 @@ class Table extends Component {
                 }
               </td>
               <td className="body-cell">Real</td>
-              <td>
+              <td className="body-cell">
                 <button
                   type="button"
                   data-testid="delete-btn"

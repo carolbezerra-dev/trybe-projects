@@ -2,7 +2,7 @@
 import { WAITING_FETCH, GET_FETCHED, UPDATE_EXPENSES, DELETE_ROW } from '../actions';
 
 const initialState = {
-  currencies: ['empty'],
+  currencies: ['currency'],
   isFetching: false,
   exchangeRates: {},
   expenses: [],

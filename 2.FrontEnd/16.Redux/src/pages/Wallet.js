@@ -86,6 +86,7 @@ class Wallet extends React.Component {
             onChange={ this.handleChange }
             className="wallet-method"
           >
+            <option value="" selected disabled>Method</option>
             <option>Cash</option>
             <option>Credit Card</option>
             <option>Debit Card</option>
@@ -97,6 +98,7 @@ class Wallet extends React.Component {
             onChange={ this.handleChange }
             className="wallet-tag"
           >
+            <option value="" disabled selected>Tag</option>
             <option>Food</option>
             <option>Recreation</option>
             <option>Job</option>

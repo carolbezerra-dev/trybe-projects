@@ -45,7 +45,6 @@ class Login extends React.Component {
             id="email-input"
             className="email-input"
             placeholder="put your email here"
-            autoComplete="off"
           />
         </label>
         <label htmlFor="password-input">
