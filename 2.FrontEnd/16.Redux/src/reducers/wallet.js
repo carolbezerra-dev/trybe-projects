@@ -9,7 +9,12 @@ const initialState = {
   total: 0,
 };
 
+const reduceTotal = (total, atual) => parseFloat(atual.value)
+  * atual.exchangeRates[atual.currency].ask + total;
+
 function wallet(state = initialState, action) {
+  let newExpenses;
+
   switch (action.type) {
   case WAITING_FETCH:
     return { ...state, isFetching: true };
@@ -22,28 +27,25 @@ function wallet(state = initialState, action) {
       exchangeRates: { ...action.payload },
     };
   case UPDATE_EXPENSES:
+    newExpenses = [
+      ...state.expenses,
+      {
+        id: state.expenses.length,
+        ...action.payload,
+        exchangeRates: state.exchangeRates,
+      },
+    ];
     return {
       ...state,
-      expenses: [
-        ...state.expenses,
-        {
-          id: state.expenses.length,
-          ...action.payload,
-          exchangeRates: state.exchangeRates,
-        },
-      ],
-      total:
-        state.total
-        + (parseFloat(action.payload.value)
-        * state.exchangeRates[action.payload.currency].ask),
+      expenses: newExpenses,
+      total: newExpenses.reduce(reduceTotal, 0),
     };
   case DELETE_ROW:
+    newExpenses = [...state.expenses.filter(({ id }) => id !== action.id)];
     return {
       ...state,
-      total:
-        state.total - (parseFloat(state.expenses[action.id].value) * state.exchangeRates[state.expenses[action.id].currency].ask),
-      expenses: [...state.expenses.filter(({ id }) => id !== action.id)],
-      // referência: Carol Andrade
+      expenses: newExpenses,
+      total: newExpenses.reduce(reduceTotal, 0),
     };
   default:
     return state;

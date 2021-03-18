@@ -29,7 +29,11 @@ class Table extends Component {
               <td className="body-cell">{ item.method }</td>
               <td className="body-cell">{ item.value }</td>
               <td className="body-cell">{ item.exchangeRates[item.currency].name }</td>
-              <td className="body-cell">{ parseFloat(item.exchangeRates[item.currency].ask).toFixed(2) }</td>
+              <td className="body-cell">
+                {
+                  parseFloat(item.exchangeRates[item.currency].ask).toFixed(2)
+                }
+              </td>
               <td className="body-cell">
                 {
                   parseFloat(item.value * item.exchangeRates[item.currency].ask)
