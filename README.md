@@ -69,7 +69,7 @@ The program has more than 1,500 hours of classroom and online classes, covers In
 
 ##### Block 16: Introduction ao Redux
 
-- [x] 16-6: _Project - Trybe Wallet_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/2.FrontEnd/16.Redux) and PAGE
+- [x] 16-6: _Project - Trybe Wallet_ - [CODE](https://github.com/carolbezerra-dev/trybe-projects-front-end/tree/main/2.FrontEnd/16.Redux) and [PAGE](https://trybewallet-kappa.vercel.app/)
 
 ##### Block 17: Project React
 
